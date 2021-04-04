@@ -1,18 +1,22 @@
-# title
-## subtitle
+# TV shows that I like
+## with absolutely no constistency between them
 
-write a paragraph about your chosen topic here. what is important about your topic? why do you care about it? why do you think other people should care about it?
+I pirate pretty much all of these except for the ones on Disney+ since i sniped the password from my dad
 
-make sure to press enter twice (i.e. leave a blank line between paragraphs) to create a new paragraph in markdown.
+ok here we go
 
-here's a [great guide](https://guides.github.com/features/mastering-markdown/) on how to use markdown
+here we go again
+- AGENT CARTER
+  - literally so badass (Peggy)
+  - underrated Marvel show, didn't get renewed for S3 sadge
+- RICK AND MORTY
+  - Roiland voices both main characters
+  - S3 actually goated
+  - highest IQ
+- THE BACHELOR FRANCHISE
+  - dumbest show concept to exist
+  - you're not here for the right reasons
 
-add some more content here! maybe some bulleted action items? 
-- action item 1
-- action item 2
+## that's it, that's the list. jk there's probably more
 
-## or you can make another section here?
 
-we encourage you to use the `preview changes` tab to see what your changes look like before committing the file.
-
-don't forget to commit and push your changes when you are done!
